@@ -4,7 +4,7 @@ Welcome to my 7_Days_of_Kubernetes, learning and practice repository! This repos
 
 ## Learning Plan
 
-### Day 1: Kubernetes Architecture, Components, Installation, and Configuration
+### Day 1: [Kubernetes Architecture, Components, Installation, and Configuration](https://github.com/cvinods555/kubestarter/blob/main/kubernetes_architecture.md)
 - **Topics Covered:**
   - Kubernetes architecture overview
   - Key components (API Server, Controller Manager, Scheduler, etc.)
